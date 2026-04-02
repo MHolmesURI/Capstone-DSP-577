@@ -10,7 +10,7 @@ Description
 Research into the customer trust in companies that have ingredient transparency. 
 
 Repository Link
-[Public GitHub repository for the project.](https://github.com/MHolmesURI/Capstone-DSP-577)
+https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews
 
 
 Secondary Data
