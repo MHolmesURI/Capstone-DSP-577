@@ -9,7 +9,10 @@ Matt Holmes
 Description
 Research into the customer trust in companies that have ingredient transparency. 
 
-Repository Link
+How to reproduce:
+To reproduce, download data from primary link and unzip. Once unzipped, upload data directly to notebook. 
+
+Primary Data
 https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews
 
 
